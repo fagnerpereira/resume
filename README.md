@@ -16,7 +16,10 @@ Kikofe - BR Alternative for Ko-fi and Buymeacoffe.
 Its not on air cause Heroku started to charge me and I was lazy to setup again... Also because I was expecting to be rich with it. But the dream is over hehehe.
 Stack: Ruby on (I know you are tired of reading Rails, but Love it and cant stop, sorry) Rails, Hotwire, Tailwindcss, Stripe (and others local payment gateways that i integrated before moving to Stripe S2), Rspec, Pundit, Devise, Sidekiq...
 
-Past experiences
-Youse
-Smartrmail
-Clicksign
+Last experiences:
+Youse: Insurance
+Smartrmail: Email Marketing
+Clicksign: Digital Signatures (much better than DocuSign ) and Iam proud of help them when it was only my and CTO coding. After 5 years I left and know they have 300 employees, just coincidence, ok? HAHAHAHA 
+Locaweb: Hosting -> Where i have met and get married with Ruby and Rails (no monogamy)
+BRQ
+PS: All web development experience with R.A.I.L.S, sometime with something different like PHP, JS, Vuejs, Abap, Cobol haha
