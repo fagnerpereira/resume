@@ -23,3 +23,9 @@ Clicksign: Digital Signatures (much better than DocuSign ) and Iam proud of help
 Locaweb: Hosting -> Where i have met and get married with Ruby and Rails (no monogamy)
 BRQ
 PS: All web development experience with R.A.I.L.S, sometime with something different like PHP, JS, Vuejs, Abap, Cobol haha
+
+Useless curiosities about me:
+I won a standup competition worth a trip to Japan, two months before covid and i never went to japan hahahaha.
+I have to cats and a reindeer (Gyda, Smoke and Chopper)
+I bought an Accordion but never learned.
+Learning Japanese to go to Japan by myself. 
